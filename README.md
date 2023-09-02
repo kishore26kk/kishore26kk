@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif"/>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif"/>
 <h1>💫 About Me: </h1> <br><br>
  I'm currently working on ReactJS <br><br>- 🌱 I'm currently learning ReactJS and looking forward to learn NodeJS<br><br>- 💭 Ask me about ReactJS and related technologies<br><br>- 📩 reach me iamkk26073@gmail.com<br><br>- ⭐ Tech Stack : MERN
 
