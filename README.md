@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif"/>
 <h1>💫 About Me: </h1> <br><br>
- I'm currently working on ReactJS <br><br>- 🌱 I'm currently learning ReactJS and looking forward to learn NodeJS<br><br>- 💭 Ask me about ReactJS and related technologies<br><br>- 📩 reach me iamkk26073@gmail.com<br><br>- ⭐ Tech Stack : MERN   
+ I'm currently working on ReactJS <br><br>- 🌱 I'm currently learning ReactJS and looking forward to learn NodeJS<br><br>- 💭 Ask me about ReactJS and related technologies<br><br>- 📩 reach me iamkk26073@gmail.com<br><br>- ⭐ Tech Stack : MERN
   
      
 ## 🌐 Socials: 
